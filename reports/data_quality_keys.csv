@@ -1,0 +1,7 @@
+table,key_columns,duplicate_key_rows,rows_with_null_keys
+customers,customer_id,0,0
+orders,order_id,0,0
+items,"order_id, order_item_id",0,0
+payments,"order_id, payment_sequential",0,0
+products,product_id,0,0
+sellers,seller_id,0,0

@@ -1,0 +1,7 @@
+child_table,parent_table,join_column,orphan_rows
+orders,customers,customer_id,0
+items,orders,order_id,0
+payments,orders,order_id,0
+reviews,orders,order_id,0
+items,products,product_id,0
+items,sellers,seller_id,0

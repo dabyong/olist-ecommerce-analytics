@@ -1,0 +1,7 @@
+issue,affected_rows
+delivered_without_delivery_date,8
+delivered_without_approval_date,14
+delivered_without_carrier_date,2
+canceled_with_delivery_date,6
+delivery_before_purchase,0
+carrier_after_delivery,23

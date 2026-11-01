@@ -1,0 +1,9 @@
+order_status,total_orders,missing_approval,missing_carrier_date,missing_delivery_date
+approved,2,0,2,2
+canceled,625,141,550,619
+created,5,5,5,5
+delivered,96478,14,2,8
+invoiced,314,0,314,314
+processing,301,0,301,301
+shipped,1107,0,0,1107
+unavailable,609,0,609,609

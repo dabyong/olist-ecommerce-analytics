@@ -1,0 +1,20 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Source datasets
+data/raw/
+data/processed/
+
+# Temporary files
+.ipynb_checkpoints/
+*.log
+.DS_Store
+Thumbs.db
